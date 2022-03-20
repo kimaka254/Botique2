@@ -1,0 +1,39 @@
+
+table{
+width: 100%;    
+border-color: black;
+border-spacing: 30px;
+border-collapse: collapse;
+}
+#tr1{ padding: 5px; 
+    background-color:#acb3b9;
+}
+#th1{
+    height:700px;
+    padding:20px;
+    background-color: black;
+}
+#tr2{
+    font-size:medium; 
+    font-style:italic;
+    text-align: center;
+}
+#td1{
+    height:400px ;
+}
+th{
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+div{
+float: right;
+}
+ul{
+    vertical-align:center;  
+    list-style:none;
+    line-height:24px;
+    padding:0px;
+}
